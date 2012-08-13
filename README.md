@@ -1,12 +1,12 @@
-# Character counter for TinyMCE
+# Word and Character Counter for the Movable Type 5.2 RTE
 
-Enables the character counter in TinyMCE (Movable Type 5.2+).
+Displays a word and character counter in TinyMCE for Movable Type 5.2+.
 
 ![Screenshot](https://raw.github.com/padawan/mt-plugin-char-counter-for-tinymce/master/artwork/screenshot.png)
 
 ## Requirements
 
-* Movable Type 5.2
+* Movable Type 5.2 with the stock TinyMCE Rich Text Editor.
 
 ## Installation
 
