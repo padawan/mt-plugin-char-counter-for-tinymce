@@ -2,7 +2,7 @@
 
 Enables the character counter in TinyMCE (Movable Type 5.2+).
 
-![Screenshot](https://github.com/movabletype/mt-plugin-char-counter-for-tinymce/raw/master/artwork/screenshot.png)
+![Screenshot](https://github.com/mt-plugin-char-counter-for-tinymce/mt-plugin-char-counter-for-tinymce/raw/master/artwork/screenshot.png)
 
 ## Requirements
 
