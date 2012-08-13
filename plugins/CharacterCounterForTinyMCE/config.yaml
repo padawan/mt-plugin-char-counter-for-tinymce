@@ -1,0 +1,13 @@
+id: CharacterCounterForTinyMCE
+name: CharacterCounterForTinyMCE
+version: 1.0
+author_link: http://ubiquitic.com/
+author_name: Ubiquitic.
+description: <MT_TRANS phrase="Displays a word and character counter in TinyMCE.">
+l10n_lexicon:
+    fr:
+        Displays a word and character counter in TinyMCE.: "Active un compteur de mots et de caractères dans TinyMCE."
+
+editors:
+    tinymce:
+        extension: extension.tmpl
